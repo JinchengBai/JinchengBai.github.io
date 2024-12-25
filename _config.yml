@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Jincheng Bai (白金成)"
 title_separator          : "-"
-name                     : &name "Jincheng Bai (白金成)"
+name                     : &name "Jincheng Bai"
 description              : &description "personal description"
 url                      : https://JinchengBai.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
