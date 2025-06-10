@@ -11,8 +11,9 @@ redirect_from:
 
 About Me
 ------
-Welcome to my homepage! I am currently working as an Applied Scientist at Amazon focusing on Gen AI and Agentic LLM projects. Before joing Amazon, I was a Quantitative Researcher at JPMorgan, where I developed ML/Stats models related to capital requirements for the bank. On the academic front, I hold a PhD in statistics from Purdue University and my research mainly focused on sparse deep learning, variational inference and Bayesian statistics.
-
+Welcome to my homepage!
+%I am currently working as an Applied Scientist at Amazon focusing on Gen AI and Agentic LLM projects. Before joing Amazon, I was a Quantitative Researcher at JPMorgan, where I developed ML/Stats models related to capital requirements for the bank. On the academic front, I hold a PhD in statistics from Purdue University and my research mainly focused on sparse deep learning, variational inference and Bayesian statistics.
+%
 
 Professional Experience
 ------
