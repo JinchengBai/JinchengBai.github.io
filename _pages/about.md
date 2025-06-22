@@ -12,16 +12,16 @@ redirect_from:
 About Me
 ------
 Welcome to my homepage!
-<!---
+
 I am currently working as an Applied Scientist at Amazon focusing on Gen AI and Agentic LLM projects. Before joing Amazon, I was a Quantitative Researcher at JPMorgan, where I developed ML/Stats models related to capital requirements for the bank. On the academic front, I hold a PhD in statistics from Purdue University and my research mainly focused on sparse deep learning, variational inference and Bayesian statistics.
--->
+
 
 Professional Experience
 ------
-- Applied Scientist, _Amazon_, July 2022 $$-$$ present
-- Quantitative Researcher, _JPMorgan_, Nov 2020 $$-$$ June 2022
-- Quantitative Research Intern, _JPMorgan_, May 2019 $$-$$ Aug 2019
-- Quantitative Analyst/Data Scientist Intern, _Google_, May 2017 $$-$$ Aug 2017
+- Applied Scientist, **Amazon**, July 2022 $$-$$ present
+- Quantitative Researcher, **JPMorgan**, Nov 2020 $$-$$ June 2022
+- Quantitative Research Intern, **JPMorgan**, May 2019 $$-$$ Aug 2019
+- Quantitative Analyst/Data Scientist Intern, **Google**, May 2017 $$-$$ Aug 2017
 
 
 <!---
