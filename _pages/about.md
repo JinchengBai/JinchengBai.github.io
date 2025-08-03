@@ -21,6 +21,10 @@ Professional Experience
 - Quantitative Research Intern, **JPMorgan**, May 2019 $$-$$ Aug 2019
 - Quantitative Analyst/Data Scientist Intern, **Google**, May 2017 $$-$$ Aug 2017
 
+News
+------
+- [05/2025] One paper accepted to **SIGIR 2025**
+- [03/2025] One paper received **Best Paper Award (ML track)** in **Consumer Science Summit 2025**
 
 <!---
 A data-driven personal website
