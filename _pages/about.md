@@ -11,7 +11,7 @@ redirect_from:
 
 About Me
 ------
-I am currently working as an Applied Scientist at Amazon focusing on Generative AI and Agentic AI projects. Before joing Amazon, I was a Quantitative Researcher at JPMorgan, where I developed ML/Stats models related to capital requirements for the bank. On the academic front, I hold a **PhD in statistics** from Purdue University and my research mainly focused on sparse deep learning, variational inference and Bayesian statistics.
+I am currently working as an Applied Scientist at Amazon focusing on Generative AI and Agentic AI projects. Before joing Amazon, I was a Quantitative Researcher at JPMorgan, where I developed ML/Stats models related to capital requirements for the bank. On the academic front, I hold a **PhD in statistics** from Purdue University, advised by [Prof. Guang Cheng](http://www.stat.ucla.edu/~guangcheng/2.html) and [Prof. Qifan Song](https://www.stat.purdue.edu/~qfsong/index.html). My doctoral research mainly focused on sparse deep learning, variational inference and Bayesian statistics.
 
 
 Professional Experience
